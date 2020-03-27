@@ -5,6 +5,11 @@ A customizable cube made out of cubes!
 
 ## Customize it!
 
+## Two versions
+
+- [Normal version](https://github.com/johnnyawesome/CubeZoom/tree/master/CubeZoom)
+- [pEasyCam version - more camera control](https://github.com/johnnyawesome/CubeZoom/tree/master/CubeZoomPEasyCam)
+
 You can customize various aspects of the cube using sliders!
 
 - Zoom
