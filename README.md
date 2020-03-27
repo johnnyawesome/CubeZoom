@@ -3,12 +3,12 @@ A customizable cube made out of cubes!
 
 ![CubeZoom](https://raw.githubusercontent.com/johnnyawesome/CubeZoom/master/CubeZoom/DemoImages/P5JS%20Tutorial%20CubeZoom.gif)
 
-## Customize it!
-
 ## Two versions
 
 - [Normal version](https://github.com/johnnyawesome/CubeZoom/tree/master/CubeZoom)
 - [pEasyCam version - more camera control](https://github.com/johnnyawesome/CubeZoom/tree/master/CubeZoomPEasyCam)
+
+## Customize it!
 
 You can customize various aspects of the cube using sliders!
 
