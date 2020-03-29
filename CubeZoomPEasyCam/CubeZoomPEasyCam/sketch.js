@@ -5,8 +5,7 @@
 let cubeDistance;
 let gridSize;
 
-let distanceSlider,
-  gridSizeSlider,
+let gridSizeSlider,
   cubeSizeSlider,
   cubeDistanceSlider,
   redSlider,
@@ -23,9 +22,6 @@ function setup() {
 
   angleMode(DEGREES);
 
-  distanceSlider = createSlider(550, 2000, 600);
-  distanceSlider.position(10, 10);
-  distanceSlider.style('width', '60px');
   cubeSizeSlider = createSlider(2, 80, 60);
   cubeSizeSlider.position(10, 30);
   cubeSizeSlider.style('width', '60px');
